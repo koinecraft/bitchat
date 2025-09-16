@@ -78,3 +78,6 @@ build.log
 
 # Local configs
 Local.xcconfig
+
+NOTES.md
+
